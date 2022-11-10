@@ -1,0 +1,18 @@
+{
+  "name": "@michaelcretzman/package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm install"
+  },
+  "keywords": [
+    "mypackage"
+  ],
+  "author": "michaelcretzman",
+  "license": "ISC"
+}
