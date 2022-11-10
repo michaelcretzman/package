@@ -14,5 +14,8 @@
     "mypackage"
   ],
   "author": "michaelcretzman",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+   "@michaelcretzman:registry": "https://npm.pkg.github.com"
+ }
 }
