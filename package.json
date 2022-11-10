@@ -16,6 +16,6 @@
   "author": "michaelcretzman",
   "license": "ISC",
   "publishConfig": {
-   "@michaelcretzman:registry": "https://npm.pkg.github.com"
+    "@michaelcretzman:registry": "https://npm.pkg.github.com"
  }
 }
